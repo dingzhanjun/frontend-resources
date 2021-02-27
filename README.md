@@ -54,7 +54,7 @@
 ## Animation
 1. [CSS Animation](https://cssanimation.rocks/transition-vs-animation/)
 2. [3D Transforms and Animations](https://www.the-art-of-web.com/css/3d-transforms/)
-3. [Ionic Animation]https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/
+3. [Ionic Animation](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
 
 
 
