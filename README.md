@@ -6,6 +6,9 @@
 3. [Robin Wieruch](https://www.robinwieruch.de)
 4. [https://atomizedobjects.com](https://atomizedobjects.com)
 
+### Awesome React Components
+[https://github.com/brillout/awesome-react-components]
+
 ### Hook Explained
 #### useEffect 
 1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
@@ -14,7 +17,7 @@
 4. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 5. https://daveceddia.com/useeffect-hook-examples/
 
-#### Test
+### Test
 1. [How To Test Your React Apps With The React Testing Library]( https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 2. [How to use React Testing Library](https://www.robinwieruch.de/react-testing-library)
 3. [Have Confidence in Your Redux Apps With Integration and Unit Testing](https://www.robertcooper.me/testing-redux-apps)
@@ -31,27 +34,28 @@
 2. [Improve Performance in React Functional Component Using react.memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
 3. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 4. [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/)
-
-A deep dive into children in React
-
-#### Why Did You Render
-https://github.com/welldone-software/why-did-you-render
+5. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 
 
-
-### Fetch Data Using Hook
 # JavaScript
 1. [Understanding *this* in Javascript](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
 2. [A Guide to ‘this’](https://medium.com/swlh/a-guide-to-this-one-of-the-least-understood-parts-of-javascript-74ce256267d4)
 3. [Where Did Async/Await Come from and Why Use It?](https://appendto.com/2017/06/asyncawait-come-use/)
 4. [Understanding async-await in Javascript](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
 5. [How to Improve Your JavaScript Skills by Writing Your Own Web Development Framework](https://medium.freecodecamp.org/how-to-improve-your-javascript-skills-by-writing-your-own-web-development-framework-eed2226f190)
+6. [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript/)
+
 
 # CSS
+## Special Guide
+1. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+2. [CSS Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Animation
 1. [CSS Animation](https://cssanimation.rocks/transition-vs-animation/)
-2. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-3. [CSS Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-4. [3D Transforms and Animations](https://www.the-art-of-web.com/css/3d-transforms/)
+2. [3D Transforms and Animations](https://www.the-art-of-web.com/css/3d-transforms/)
+3. [Ionic Animation]https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/
+
 
 
 # Other
