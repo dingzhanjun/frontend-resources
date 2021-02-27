@@ -4,6 +4,7 @@
 1. [Rext Official Site](https://reactjs.org/docs/getting-st…)
 2. [Dave Ceddia](https://daveceddia.com)
 3. [Robin Wieruch](https://www.robinwieruch.de)
+4. [https://atomizedobjects.com](https://atomizedobjects.com)
 
 ### Hook Explained
 #### useEffect 
@@ -13,7 +14,7 @@
 4. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 5. https://daveceddia.com/useeffect-hook-examples/
 
-### Test
+#### Test
 1. [How To Test Your React Apps With The React Testing Library]( https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 2. [How to use React Testing Library](https://www.robinwieruch.de/react-testing-library)
 3. [Have Confidence in Your Redux Apps With Integration and Unit Testing](https://www.robertcooper.me/testing-redux-apps)
@@ -24,13 +25,12 @@
 https://www.debuggr.io/react-update-unmounted-component/
 
 ### Performance Tunning
-https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce
+1.[10 Ways to optimize react apps performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
+2. [Improve Performance in React Functional Component Using react.memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
+3. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+4. [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/)
 
-https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a
 
-https://www.codementor.io/blog/react-optimization-5wiwjnf9hj
-
-https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/
 
 #### Why Did You Render
 https://github.com/welldone-software/why-did-you-render
@@ -42,3 +42,15 @@ https://github.com/welldone-software/why-did-you-render
 1. [CSS Animation](https://cssanimation.rocks/transition-vs-animation/)
 2. [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 3. [CSS Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+4. [3D Transforms and Animations](https://www.the-art-of-web.com/css/3d-transforms/)
+
+
+# Other
+[Using the CreateAnimation Wrapper Component in an Ionic/React Application](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
+
+# React component
+ https://blog.logrocket.com/complete-guide-to-build-product-tours-on-your-react-apps/
+
+# Webpack, Babel
+[Babel](https://blog.jakoblind.no/babel-preset-env/)
+[Babel Preset](https://stackoverflow.com/questions/47721169/babel-vs-babel-core-vs-babel-loader-vs-babel-preset-2015-vs-babel-preset-react-v?rq=1)
