@@ -7,7 +7,7 @@
 4. [https://atomizedobjects.com](https://atomizedobjects.com)
 
 ### Awesome React Components
-[https://github.com/brillout/awesome-react-components]
+[Awesome React Components you can use](https://github.com/brillout/awesome-react-components)
 
 ### Hook Explained
 #### useEffect 
