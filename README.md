@@ -44,7 +44,7 @@
 4. [Understanding async-await in Javascript](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
 5. [How to Improve Your JavaScript Skills by Writing Your Own Web Development Framework](https://medium.freecodecamp.org/how-to-improve-your-javascript-skills-by-writing-your-own-web-development-framework-eed2226f190)
 6. [Understanding the "this" keyword, call, apply, and bind in JavaScript](https://ui.dev/this-keyword-call-apply-bind-javascript/)
-
+7. [Debouncing and Throttling](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript)
 
 # CSS
 ## Special Guide
