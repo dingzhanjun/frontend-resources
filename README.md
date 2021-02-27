@@ -1,16 +1,17 @@
 # This is list for myself
 ## React
 ### React Sites
+1. [Rext Official Site](https://reactjs.org/docs/getting-st…)
+2. [Dave Ceddia](https://daveceddia.com)
+3. [Robin Wieruch](https://www.robinwieruch.de)
 
 ### Hook Explained
 #### useEffect 
-1. https://overreacted.io/a-complete-guide-to-useeffect/
 
-2. https://www.robinwieruch.de/react-hooks-fetch-data
-
-3. https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/
-
-4. https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/
+1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+2. [useEffect to Fetch Data ](https://www.robinwieruch.de/react-hooks-fetch-data)
+3. [useEffect vs componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
+4. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 
 5. https://daveceddia.com/useeffect-hook-examples/
 
