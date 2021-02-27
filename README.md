@@ -18,6 +18,7 @@
 5. https://daveceddia.com/useeffect-hook-examples/
 
 ### Test
+1. [React App Testing](https://reactjs.org/docs/testing.html)
 1. [How To Test Your React Apps With The React Testing Library]( https://www.smashingmagazine.com/2020/07/react-apps-testing-library/)
 2. [How to use React Testing Library](https://www.robinwieruch.de/react-testing-library)
 3. [Have Confidence in Your Redux Apps With Integration and Unit Testing](https://www.robertcooper.me/testing-redux-apps)
@@ -55,11 +56,7 @@
 1. [CSS Animation](https://cssanimation.rocks/transition-vs-animation/)
 2. [3D Transforms and Animations](https://www.the-art-of-web.com/css/3d-transforms/)
 3. [Ionic Animation](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
-
-
-
-# Other
-[Using the CreateAnimation Wrapper Component in an Ionic/React Application](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
+4. [Using the CreateAnimation Wrapper Component in an Ionic/React Application](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
 
 # React component
 1. [Product Tour](https://blog.logrocket.com/complete-guide-to-build-product-tours-on-your-react-apps/)
