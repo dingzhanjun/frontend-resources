@@ -38,7 +38,14 @@ A deep dive into children in React
 https://github.com/welldone-software/why-did-you-render
 
 
+
 ### Fetch Data Using Hook
+# JavaScript
+1. [Understanding *this* in Javascript](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
+2. [A Guide to ‘this’](https://medium.com/swlh/a-guide-to-this-one-of-the-least-understood-parts-of-javascript-74ce256267d4)
+3. [Where Did Async/Await Come from and Why Use It?](https://appendto.com/2017/06/asyncawait-come-use/)
+4. [Understanding async-await in Javascript](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
+5. [How to Improve Your JavaScript Skills by Writing Your Own Web Development Framework](https://medium.freecodecamp.org/how-to-improve-your-javascript-skills-by-writing-your-own-web-development-framework-eed2226f190)
 
 # CSS
 1. [CSS Animation](https://cssanimation.rocks/transition-vs-animation/)
@@ -51,7 +58,8 @@ https://github.com/welldone-software/why-did-you-render
 [Using the CreateAnimation Wrapper Component in an Ionic/React Application](https://www.joshmorony.com/using-create-animation-wrappper-component-ionic-react-application/)
 
 # React component
- https://blog.logrocket.com/complete-guide-to-build-product-tours-on-your-react-apps/
+1. [Product Tour](https://blog.logrocket.com/complete-guide-to-build-product-tours-on-your-react-apps/)
+2. [Desktop like component](http://reactdesktop.js.org/demo/)
 
 # Webpack, Babel
 [Babel](https://blog.jakoblind.no/babel-preset-env/)
