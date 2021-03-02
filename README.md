@@ -9,7 +9,7 @@
 ### Awesome React Components
 [Awesome React Components you can use](https://github.com/brillout/awesome-react-components)
 
-### Hook Explained
+### Hook
 #### useEffect 
 1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 2. [useEffect to Fetch Data ](https://www.robinwieruch.de/react-hooks-fetch-data)
@@ -28,7 +28,7 @@
 ### Dive Deep
 1. [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 2. [React state update on an unmounted component](https://www.debuggr.io/react-update-unmounted-component/)
-
+3. [App Accessibility](https://reactjs.org/docs/accessibility.html#programmatically-managing-focus)
 
 ### Performance Tunning
 1. [10 Ways to optimize react apps performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
