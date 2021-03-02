@@ -1,4 +1,4 @@
-# This is list for myself
+# This is a list for me to save online resource
 ## React
 ### React Sites
 1. [Rext Official Site](https://reactjs.org/docs/getting-st…)
