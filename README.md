@@ -6,9 +6,6 @@
 3. [Robin Wieruch](https://www.robinwieruch.de)
 4. [https://atomizedobjects.com](https://atomizedobjects.com)
 
-### Awesome React Components
-[Awesome React Components you can use](https://github.com/brillout/awesome-react-components)
-
 ### Hook
 #### useEffect 
 1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
@@ -61,6 +58,8 @@
 # React component
 1. [Product Tour](https://blog.logrocket.com/complete-guide-to-build-product-tours-on-your-react-apps/)
 2. [Desktop like component](http://reactdesktop.js.org/demo/)
+3. [Awesome React Components you can use](https://github.com/brillout/awesome-react-components)
+
 
 # Webpack, Babel
 [Babel](https://blog.jakoblind.no/babel-preset-env/)
