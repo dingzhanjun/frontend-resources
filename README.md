@@ -26,6 +26,7 @@
 1. [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 2. [React state update on an unmounted component](https://www.debuggr.io/react-update-unmounted-component/)
 3. [App Accessibility](https://reactjs.org/docs/accessibility.html#programmatically-managing-focus)
+4. [Creating An Outside Focus And Click Handler React Component](https://www.smashingmagazine.com/2021/03/outside-focus-click-handler-react-component/)
 
 ### Performance Tunning
 1. [10 Ways to optimize react apps performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
