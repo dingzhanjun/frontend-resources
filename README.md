@@ -1,7 +1,7 @@
 # This is a list for me to save online resource
 ## React
 ### React Sites
-1. [Rext Official Site](https://reactjs.org/docs/getting-st…)
+1. [React Official Site](https://reactjs.org/docs/getting-st…)
 2. [Dave Ceddia](https://daveceddia.com)
 3. [Robin Wieruch](https://www.robinwieruch.de)
 4. [https://atomizedobjects.com](https://atomizedobjects.com)
