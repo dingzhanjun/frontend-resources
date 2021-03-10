@@ -52,8 +52,8 @@
 7. [Debouncing and Throttling](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript)
 
 # graphQL
-## Tutorials
-1. [freecodecamp](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
+1. [graphQL Official Site](https://graphql.cn/learn/queries/)
+2. [freecodecamp](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
 
 # CSS
 ## Special Guide
