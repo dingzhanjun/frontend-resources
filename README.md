@@ -13,6 +13,9 @@
 4. [React Ant UI](https://ant.design/docs/react/introduce)
 
 ### Hook
+#### General Topic
+1. [React Hooks, Oops!](https://coder.earth/post/react-hooks-oops-part-1-introduction)
+
 #### useEffect 
 1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 2. [useEffect to Fetch Data ](https://www.robinwieruch.de/react-hooks-fetch-data)
