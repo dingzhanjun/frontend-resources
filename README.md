@@ -22,6 +22,7 @@
 3. [useEffect vs componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
 4. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
 5. https://daveceddia.com/useeffect-hook-examples/
+6. [useDeepCompareEffect](https://github.com/dingzhanjun/frontend-resources/blob/main/README.md)
 
 ### Test
 1. [React App Testing](https://reactjs.org/docs/testing.html)
