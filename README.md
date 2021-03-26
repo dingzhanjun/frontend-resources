@@ -50,10 +50,6 @@
 5. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 6. [45% Faster React Functional Components](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 
-### Security
-1. [Stop using localStorage](https://www.rdegges.com/2018/please-stop-using-local-storage/)
-
-
 # JavaScript
 1. [Understanding *this* in Javascript](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
 2. [A Guide to ‘this’](https://medium.com/swlh/a-guide-to-this-one-of-the-least-understood-parts-of-javascript-74ce256267d4)
@@ -68,6 +64,9 @@
 2. [freecodecamp](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
 3. [Appolo](https://github.com/apollographql/apollo-server)
 4. [graphQL-Yoga](https://github.com/prisma-labs/graphql-yoga)
+
+# Security
+1. [Stop using localStorage](https://www.rdegges.com/2018/please-stop-using-local-storage/)
 
 # CSS
 ## Special Guide
