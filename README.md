@@ -50,6 +50,9 @@
 5. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
 6. [45% Faster React Functional Components](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 
+### Security
+1. [Stop using localStorage](https://www.rdegges.com/2018/please-stop-using-local-storage/)
+
 
 # JavaScript
 1. [Understanding *this* in Javascript](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
