@@ -32,6 +32,10 @@
 4. [Testing Stateful React Function Components with React Testing Library](https://www.robertcooper.me/testing-stateful-react-function-components-with-react-testing-library)
 5. [Stop Mocking Fetch](https://kentcdodds.com/blog/stop-mocking-fetch)
 
+### graphQL
+1. [Official graphQL Site](https://www.graphql.org)
+2. [How to graphQL](https://www.howtographql.com)
+
 ### Dive Deep
 1. [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 2. [React state update on an unmounted component](https://www.debuggr.io/react-update-unmounted-component/)
@@ -44,6 +48,7 @@
 3. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 4. [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/)
 5. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
+6. [45% Faster React Functional Components](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 
 
 # JavaScript
