@@ -67,6 +67,7 @@
 
 # Security
 1. [Stop using localStorage](https://www.rdegges.com/2018/please-stop-using-local-storage/)
+2. [How to Secure JWT in a Single-Page Application](https://dev.to/nilanth/how-to-secure-jwt-in-a-single-page-application-cko)
 
 # CSS
 ## Special Guide
