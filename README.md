@@ -86,7 +86,9 @@
 2. [Desktop like component](http://reactdesktop.js.org/demo/)
 3. [Awesome React Components you can use](https://github.com/brillout/awesome-react-components)
 
-
 # Webpack, Babel
 [Babel](https://blog.jakoblind.no/babel-preset-env/)
 [Babel Preset](https://stackoverflow.com/questions/47721169/babel-vs-babel-core-vs-babel-loader-vs-babel-preset-2015-vs-babel-preset-react-v?rq=1)
+
+# Misc
+1. [Inside Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
