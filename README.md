@@ -18,11 +18,12 @@
 
 #### useEffect 
 1. [Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
-2. [useEffect to Fetch Data ](https://www.robinwieruch.de/react-hooks-fetch-data)
-3. [useEffect vs componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
-4. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
-5. https://daveceddia.com/useeffect-hook-examples/
-6. [useDeepCompareEffect](https://github.com/dingzhanjun/frontend-resources/blob/main/README.md)
+2. [The last guide to the useEffect Hook you’ll ever need](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
+3. [useEffect to Fetch Data ](https://www.robinwieruch.de/react-hooks-fetch-data)
+4. [useEffect vs componentDidMount](https://reacttraining.com/blog/useEffect-is-not-the-new-componentDidMount/)
+5. [Access Previous State With Hooks](https://blog.logrocket.com/how-to-get-previous-props-state-with-react-hooks/)
+6. https://daveceddia.com/useeffect-hook-examples/
+7. [useDeepCompareEffect](https://github.com/dingzhanjun/frontend-resources/blob/main/README.md)
 
 ### Test
 1. [React App Testing](https://reactjs.org/docs/testing.html)
