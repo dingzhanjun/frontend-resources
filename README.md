@@ -44,12 +44,13 @@
 4. [Creating An Outside Focus And Click Handler React Component](https://www.smashingmagazine.com/2021/03/outside-focus-click-handler-react-component/)
 
 ### Performance Tunning
-1. [10 Ways to optimize react apps performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
-2. [Improve Performance in React Functional Component Using react.memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
-3. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
-4. [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/)
-5. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
-6. [45% Faster React Functional Components](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
+1. [Guide for Large Scale React App](https://medium.com/flock-engineering-blog/a-beginners-guide-to-performance-in-large-scale-react-applications-20072d47f66a)
+2. [10 Ways to optimize react apps performance](https://blog.bitsrc.io/10-ways-to-optimize-your-react-apps-performance-e5e437c9abce)
+3. [Improve Performance in React Functional Component Using react.memo](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
+4. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+5. [Methods Of Improving And Optimizing Performance In React Apps](https://www.smashingmagazine.com/2020/07/methods-performance-react-apps/)
+6. [A tool to find out why is rerending happening - Why Did You Render](https://github.com/welldone-software/why-did-you-render)
+7. [45% Faster React Functional Components](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 
 # JavaScript
 1. [Understanding *this* in Javascript](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
